@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, maximum-scale=1.0"/>
+
+<!--  Bootstrap and Styles  -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link rel="stylesheet" href="style.css">
+
+	<title>Products</title>
+</head>
+<body>
+
+	<div class="table">
+	<select id="categories-filter">
+		<option value="">All products</option>
+	</select>
+	<select id="price-sorting">
+		<option value="default">Default</option>
+		<option value="asc">Ascending</option>
+		<option value="desc">Descending</option>
+	</select>
+		<table id="product-table" class="table table-bordered">
+			<thead>
+				<tr>
+					<th>Category</th>
+					<th>Image</th>
+					<th>Name</th>
+					<th>Description</th>
+					<th id="priceID">Price</th>
+					<th>Delete</th>
+				</tr>
+			</thead>
+			<tbody>
+				
+			</tbody>
+		</table>
+	</div>
+
+	<textarea id="json" style="width:100%"></textarea>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+	<script src="jquery.sortElements.js"></script>
+	<script src="script.js"></script>
+</body>
+
+</html>

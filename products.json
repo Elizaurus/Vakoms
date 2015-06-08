@@ -1,0 +1,8 @@
+{ "data": [
+	{ "id": 0, "category": "Tablet", "imageUrl": "img/phones/motorola.jpg", "name": "Motorola XOOM™ with Wi-Fi", "description": "The Next, Next Generation\r\n\r\nExperience the future with Motorola.", "price": 1990 },
+	{ "id": 1, "category": "Phone", "imageUrl": "img/phones/motorola-xoom.jpg", "name": "MOTOROLA XOOM™", "description": "The Next, Next Generation\n\nExperience the future with MOTOROLA XOOM.", "price": 1900 },
+	{ "id": 2, "category": "Phone", "imageUrl": "img/phones/motorola-atrix.jpg", "name": "MOTOROLA ATRIX™ 4G", "description": "MOTOROLA ATRIX 4G the world's most powerful smartphone.", "price": 1730 },
+	{ "id": 3, "category": "PC", "imageUrl": "img/phones/dell-streak.jpg", "name": "Dell Streak 7", "description": "Introducing Dell Streak 7.", "price": 2900 },
+	{ "id": 4, "category": "Phone", "imageUrl": "img/phones/samsung-gem.jpg", "name": "Samsung Gem™", "description": "The Samsung Gem brings you everything.", "price": 1230 },
+	{ "id": 5, "category": "Tablet", "imageUrl": "img/phones/dell-venue.jpg", "name": "Dell Venue", "description": "The Dell Venue; Your Personal Express Lane.", "price": 3240 }
+] }
