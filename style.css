@@ -1,3 +1,18 @@
 body {
 	padding: 15px;
 }
+
+select {
+	margin: 20px;
+}
+
+textarea {
+	width: 100%;
+}
+
+th {
+	text-align: center;
+}
+td.image > img {
+	width: 300px;
+}
